@@ -11,7 +11,9 @@ public class WorkTicket
     // PRIVATE INSTANCE VARIABLES
     private int myTicketNumber;
     private String myClientID;
-    //private MyDate myDate;
+    private String day;
+    private String month;
+    private String year;
     private String myDescription;
 
     // PUBLIC PROPERTIES
